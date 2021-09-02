@@ -1,0 +1,3 @@
+1. Creación de la bicicleta
+2. Numero de llantas: 2
+3. Material del cuadro: Aluminio
